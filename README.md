@@ -1,2 +1,3 @@
 # tech_interview_practice
-# tech_interview_practice
+
+printing chess board
